@@ -78,7 +78,7 @@ The project focuses on solving real booking problems: **preventing double bookin
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/studio-booking.git
+git clone https://github.com/E1vein/studio-booking.git
 cd studio-booking
 
 composer install
@@ -136,7 +136,7 @@ Use the Midtrans test card:
 - Card number: `4811 1111 1111 1114`
 - Expiry: any future date
 - CVV: `123`
-- OTP: `112`
+- OTP: `112233`
 
 For other payment methods, use the [Midtrans simulator](https://simulator.sandbox.midtrans.com).
 
